@@ -13,9 +13,9 @@ Supervisor.
 - [Chef Cookbook][2]
 - [Package managers][3]
 - [Docker][4] (unavailable)
-- [Manuel Instructions](#manuel-instructions)
+- [Manual Installation](#manual-installation)
 
-## Manuel Instructions
+## Manual Installation
 
 **Install Dependencies For Cesi Api**
 
